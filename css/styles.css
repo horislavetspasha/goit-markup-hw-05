@@ -735,7 +735,7 @@ transition: transform 250ms var(--main-timing);
 	transition: transform 250ms var(--main-timing);
 }
 
-.modal-btn {
+.modal-btn.button {
 	position: absolute;
 	top: 8px;
 	right: 8px;
@@ -747,7 +747,6 @@ transition: transform 250ms var(--main-timing);
 	box-sizing: border-box;
 	align-items: center;
 	justify-content: center;
-
 }
 
 .modal-btn-icon {
